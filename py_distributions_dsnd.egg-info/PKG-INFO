@@ -1,9 +1,9 @@
 Metadata-Version: 1.0
 Name: py-distributions-dsnd
-Version: 0.1
-Summary: Gaussian distributions
+Version: 0.2
+Summary: Gaussian and Binomial distributions
 Home-page: UNKNOWN
-Author: UNKNOWN
+Author: Ayushi Mittal
 Author-email: UNKNOWN
 License: UNKNOWN
 Description-Content-Type: UNKNOWN
